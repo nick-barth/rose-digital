@@ -3,11 +3,12 @@ Built using my react/typescript/reactrouter/redux boilerplate which is based off
 My complaints are that I didn't use typescript to it's fullest, and my nav container got a little out of hand.  I think the design is weird as well, while it doesn't look terrible with 1 search results, 3 search results also gets a tad too big, that's why I did not go with a fixed layout for the navbar.  
 
 To Run
-
+```
 npm install
-npm start
-
+npm start`
+```
 or 
-
+```
 yarn install
 yarn start
+```
