@@ -5,7 +5,7 @@ My complaints are that I didn't use typescript to it's fullest, and my nav conta
 To Run
 ```
 npm install
-npm start`
+npm start
 ```
 or 
 ```
